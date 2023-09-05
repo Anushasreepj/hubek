@@ -6,7 +6,7 @@
 	<groupId>com.hubson</groupId>
 	<artifactId>lifegame</artifactId>
 	<version>0.0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>LifeGame</name>
 	<description>Game of Life weird implementation</description>
@@ -20,7 +20,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 
 	<dependencies>
